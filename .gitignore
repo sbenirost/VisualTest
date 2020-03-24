@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 DerivedDataCache/*
 VisualTest/Saved/*
+
+VisualTest/Saved/
